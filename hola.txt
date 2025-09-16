@@ -1,0 +1,9 @@
+Hola me llamo bastian vega
+
+-Requerimiento para angel:
+    Crear un chao.txt
+    que diga "Chao bastian vega"
+
+-Requerimiento para david:
+    Crear un adios.txt
+    que diga "Adios bastian vega"
